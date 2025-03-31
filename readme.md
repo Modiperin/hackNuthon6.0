@@ -1,6 +1,7 @@
 # Team Arjun - Hacknuthon
 
-Team Arjun's project consists of AI-based diagnostic tools for detecting skin diseases, throat infections, and breast abnormalities through mammography, along with a histopathology analysis system. The project contains two backend servers and one frontend server.
+
+This project focuses on developing an AI-driven, non-invasive cancer diagnostic system that implements spectral analysis and deep learning to detect skin cancer and breast cancer with high accuracy. By analyzing biomarkers and spectral signatures, our system enhances traditional diagnostic methods, reducing reliance on biopsies while improving speed, reliability, and early detection. Using spectroscopy data, dermoscopic images, and mammograms, our AI models classify anomalies, providing real-time insights for medical professionals. This solution aims to revolutionize cancer diagnostics by integrating computer vision, spectral feature extraction, and deep learning algorithms, making early-stage cancer detection more accessible and efficient.
 
 ## Prerequisites
 - Python 3.9+
