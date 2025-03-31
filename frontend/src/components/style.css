@@ -1,0 +1,9 @@
+#upload-area {
+  border-color: #e5e7eb;
+  transition: all 300ms;
+  text-align: center;
+}
+
+#upload-area:hover {
+  border-color: #3b82f6;
+}
