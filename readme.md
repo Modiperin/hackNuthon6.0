@@ -1,4 +1,4 @@
-readme_content = """# Team Arjun - Hacknuthon
+# Team Arjun - Hacknuthon
 
 Team Arjun's project consists of AI-based diagnostic tools for detecting skin diseases, throat infections, and breast abnormalities through mammography, along with a histopathology analysis system. The project contains two backend servers and one frontend server.
 
