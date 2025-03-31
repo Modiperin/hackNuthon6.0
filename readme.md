@@ -1,5 +1,6 @@
-# Team Arjun - Hacknuthon
+# Team Arjun - HackNUthon
 
+## Image processing and AI/ML for disease detection
 
 This project focuses on developing an AI-driven, non-invasive cancer diagnostic system that implements spectral analysis and deep learning to detect skin cancer and breast cancer with high accuracy. By analyzing biomarkers and spectral signatures, our system enhances traditional diagnostic methods, reducing reliance on biopsies while improving speed, reliability, and early detection. Using spectroscopy data, dermoscopic images, and mammograms, our AI models classify anomalies, providing real-time insights for medical professionals. This solution aims to revolutionize cancer diagnostics by integrating computer vision, spectral feature extraction, and deep learning algorithms, making early-stage cancer detection more accessible and efficient.
 
